@@ -1,0 +1,27 @@
+{
+  "name": "eazyautodelete-stats-server",
+  "version": "1.0.0",
+  "description": "🏆 Server to handle statistics from single shards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EazyAutodelete/eazyautodelete-stats-server.git"
+  },
+  "author": "qreepex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EazyAutodelete/eazyautodelete-stats-server/issues"
+  },
+  "homepage": "https://github.com/EazyAutodelete/eazyautodelete-stats-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.0",
+    "url": "^0.11.0"
+  }
+}
